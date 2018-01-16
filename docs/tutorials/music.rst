@@ -1,4 +1,4 @@
-Music
+Muzyka
 -----
 
 MicroPython on the BBC micro:bit comes with a powerful music and sound module.
